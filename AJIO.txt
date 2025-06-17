@@ -1,0 +1,11 @@
+Ajio-online purchase platform
+
+1.login with username and password
+
+2.Select the product with quantity
+
+3.Add the product to the cart
+
+4. Choose the Payment mode
+
+5.Place the order.
