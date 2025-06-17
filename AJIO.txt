@@ -6,6 +6,8 @@ Ajio-online purchase platform
 
 3.Add the product to the cart
 
-4. Choose the Payment mode
+4. Go to the cart.
 
-5.Place the order.
+5. Choose the Payment mode
+
+6.Place the order.
