@@ -8,6 +8,8 @@ Ajio-online purchase platform
 
 4. Go to the cart.
 
-5. Choose the Payment mode
+5.Choose UPI
 
-6.Place the order.
+6. Choose the Payment mode
+
+7.Place the order.
